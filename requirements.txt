@@ -1,0 +1,10 @@
+torch>=2.0
+numpy
+scipy
+matplotlib
+seaborn
+sympy
+pillow
+# Optional — only needed for advanced demos:
+# meep        # rigorous FDTD electromagnetics
+# pyrtl       # register-transfer-level digital simulation
